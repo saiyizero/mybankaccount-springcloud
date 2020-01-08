@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-configs-server/common-configs-server.iml" filepath="$PROJECT_DIR$/common-configs-server/common-configs-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-registr-center/common-registr-center.iml" filepath="$PROJECT_DIR$/common-registr-center/common-registr-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-routing-center/common-routing-center.iml" filepath="$PROJECT_DIR$/common-routing-center/common-routing-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybankaccount-springcloud.iml" filepath="$PROJECT_DIR$/mybankaccount-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/public-iobus/public-iobus.iml" filepath="$PROJECT_DIR$/public-iobus/public-iobus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/public-web/public-web.iml" filepath="$PROJECT_DIR$/public-web/public-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-account/trans-account.iml" filepath="$PROJECT_DIR$/trans-account/trans-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-assets/trans-assets.iml" filepath="$PROJECT_DIR$/trans-assets/trans-assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-cust/trans-cust.iml" filepath="$PROJECT_DIR$/trans-cust/trans-cust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-debt/trans-debt.iml" filepath="$PROJECT_DIR$/trans-debt/trans-debt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-organ/trans-organ.iml" filepath="$PROJECT_DIR$/trans-organ/trans-organ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-param/trans-param.iml" filepath="$PROJECT_DIR$/trans-param/trans-param.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-payment/trans-payment.iml" filepath="$PROJECT_DIR$/trans-payment/trans-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../virugan-public/virugan-common/virugan-common.iml" filepath="$PROJECT_DIR$/../virugan-public/virugan-common/virugan-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../virugan-public/virugan-springboot-cache/virugan-springboot-cache.iml" filepath="$PROJECT_DIR$/../virugan-public/virugan-springboot-cache/virugan-springboot-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../virugan-public/virugan-springboot-jdbc/virugan-springboot-jdbc.iml" filepath="$PROJECT_DIR$/../virugan-public/virugan-springboot-jdbc/virugan-springboot-jdbc.iml" />
+    </modules>
+  </component>
+</project>

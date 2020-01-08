@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-configs-server" />
+        <module name="common-registr-center" />
+        <module name="common-routing-center" />
+        <module name="public-iobus" />
+        <module name="trans-account" />
+        <module name="trans-assets" />
+        <module name="trans-cust" />
+        <module name="trans-debt" />
+        <module name="trans-organ" />
+        <module name="trans-param" />
+        <module name="trans-payment" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-configs-server" target="1.8" />
+      <module name="common-registr-center" target="1.8" />
+      <module name="common-routing-center" target="1.8" />
+      <module name="mybankaccount-springcloud" target="1.8" />
+      <module name="public-iobus" target="1.8" />
+      <module name="public-web" target="1.8" />
+      <module name="trans-account" target="1.8" />
+      <module name="trans-assets" target="1.8" />
+      <module name="trans-cust" target="1.8" />
+      <module name="trans-debt" target="1.8" />
+      <module name="trans-organ" target="1.8" />
+      <module name="trans-param" target="1.8" />
+      <module name="trans-payment" target="1.8" />
+      <module name="virugan-common" target="1.8" />
+      <module name="virugan-common (1)" target="1.8" />
+      <module name="virugan-springboot-cache" target="1.8" />
+      <module name="virugan-springboot-jdbc" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

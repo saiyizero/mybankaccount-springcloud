@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common-configs-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-configs-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-registr-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-registr-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-routing-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-routing-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public-iobus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public-iobus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-assets" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-assets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-cust" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-cust/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-debt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-debt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-organ" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-organ/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-param" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-param/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-payment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trans-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/virugan-springboot-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/virugan-springboot-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/virugan-springboot-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/virugan-springboot-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../virugan-public/virugan-springboot-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../virugan-public/virugan-springboot-jdbc" charset="UTF-8" />
+  </component>
+</project>

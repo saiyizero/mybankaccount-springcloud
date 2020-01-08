@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: trans-assets
+  cloud:
+    config:
+      uri: http://39.105.142.33:9001/
+      profile: dev
+      label: master

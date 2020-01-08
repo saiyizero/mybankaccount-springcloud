@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="common-registr-center:jar">
+    <output-path>$USER_HOME$/Desktop/mybankaccount-springcloud</output-path>
+    <root id="root">
+      <element id="archive" name="common-registr-center.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/common-registr-center/src/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="common-registr-center" />
+      </element>
+      <element id="directory" name="lib" />
+    </root>
+  </artifact>
+</component>
